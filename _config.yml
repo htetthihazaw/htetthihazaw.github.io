@@ -77,10 +77,10 @@ social-links-order: [github, linkedin, speakerdeck, scholar, instagram, twitter,
 
 authors:
   vivekkrish:
-    name: Vivek Krishnakumar
+    name: Htet Thiha Zaw
     bio: Bioinformatics Engineer
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/Zaw_headshot.jpg
     twitter: vivekkrish
 
 # do you want a larger site? change the option below
