@@ -3,17 +3,10 @@ title: About
 layout: page
 ---
 
-<p>Hello. My name is Vivek Krishnakumar, currently based in sunny San Diego, CA.
-I am a Bioinformatics Engineer at Illumina Inc. within the Data Analysis Software 
-Test Engineering team, focused on developing bioinformatics utilities to facilitate
-the verification and validation of Illumina RUO software, along with improving and
-maintaining in-house bioinformatics libraries and test automation frameworks.
+<p>Minglaba! Welcome to my website. I am a Ph.D. Candidate in Political Science and the Rackham Predoctoral Fellow at the University of Michigan – Ann Arbor. My research interests lie in comparative political economy and conflict studies, with expertise in Southeast Asia and colonial contexts.
 </p>
 
-<p>Previously, I was part of the J. Craig Venter Institute, working on plant
-genome assembly curation, genome structural and functional annotation as well
-as developing and maintaining genome data portals for the Plant Genomics
-research community.</p>
+<p>I received my undergraduate degree in economics and finance at the Chinese University of Hong Kong (CUHK). Before my graduate studies, I worked as a researcher at CUHK and contributed to education policy projects in Iraq, Indonesia, Myanmar (Burma), and Syria.</p>
 
 <h2>Skills</h2>
 
